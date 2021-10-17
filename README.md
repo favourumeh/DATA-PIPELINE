@@ -13,7 +13,7 @@
 ## Python version and packages 
 Python Version: **3.8.3**
 
-Packages: pandas, numpy, Bs4 (BeautifulSoup),	sqlalchemy, requests,	numpy 
+Packages: pandas, numpy, Bs4 (BeautifulSoup),	sqlalchemy, requests
 
 
 ## An overview of the processes undergone 
