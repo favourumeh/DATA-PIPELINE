@@ -15,4 +15,8 @@
 ![](https://github.com/favourumeh/DATA-PIPELINE/blob/main/Excel%20file%20example.png)
 
 ## Tools developed 
+To use the tool developed simply follow the below flowchart
+![](https://github.com/favourumeh/DATA-PIPELINE/blob/main/Pipeline%20tool%20flowchart.png)
+
+
 
