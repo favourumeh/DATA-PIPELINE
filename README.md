@@ -1,6 +1,6 @@
 #  Data Pipeline: Basketball Reference 
 
-# Note: See file "project_ETL.docx" for further description of the project)
+## Note: See file "project_ETL.docx" for further description of the project)
 
 
 ## Basketball Reference Data Pipeline
