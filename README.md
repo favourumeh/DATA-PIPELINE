@@ -3,7 +3,7 @@
 # Note: See file "project_ETL.docx" for further description of the project and how to use the tool developed in project)
 
 
-## Basketball Reference Data Pipeline](https://github.com/favourumeh/DATA-PIPELINE)
+## Basketball Reference Data Pipeline
 - Created a data pipeline that can scrape and clean tabular statistical data from BasketballReference.com and store it in a local MySQL server and/or Excel workbook. 
 - The pipeline was used to store over 16,000 rows of per-game statistics of players in National Basketball Association (NBA) spanning 31 years (from 1990-2021)
 - The stored data was then used in several machine learning projects namely regression and classification (see projects 2 and 3)  
