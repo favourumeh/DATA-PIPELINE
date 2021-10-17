@@ -1,4 +1,4 @@
-#  ETL batch process: Basketball Reference 
+#  Data Pipeline: Basketball Reference 
 
 # Note: See file "project_ETL.docx" for further description of the project and how to use the tool developed in project)
 
@@ -10,12 +10,18 @@
 - The NBA is the top professional basketball league in North America. It was founded in 1947 and is currently home to the best basketball players in the world. 
 - Basketball Reference is an online depository of basketball statistics, game logs etc for different basketball leagues.  
 
+## Python version and packages 
+Python Version: **3.8.3**
+
+Packages: pandas, numpy, Bs4 (BeautifulSoup),	sqlalchemy, requests,	numpy 
+
+
 ## An overview of the processes undergone 
 ![](/Cleaning%20Actions.png)
 ![](https://github.com/favourumeh/DATA-PIPELINE/blob/main/Excel%20file%20example.png)
 
 ## Tools developed 
-To use the tool developed simply follow the below flowchart
+To use the tool developed simply follow the flowchart below:
 
 ![](https://github.com/favourumeh/DATA-PIPELINE/blob/main/Pipeline%20tool%20flowchart.png)
 
